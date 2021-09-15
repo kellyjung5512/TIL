@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ea60a27-7621-47b8-803c-8ba92395f7f4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1220/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1220/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4613/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4613/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4613/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/4613/s1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,10 +13,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1220/input.txt">
+        <entry file="file://$PROJECT_DIR$/4613/input.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="33330">
-              <caret line="1010" selection-start-line="1010" selection-end-line="1010" />
+            <state relative-caret-position="66">
+              <caret line="2" column="4" lean-forward="true" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -29,17 +24,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/1220/s1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="99">
-              <caret line="3" selection-start-line="3" selection-end-line="20" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/4613/input.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+            <state relative-caret-position="231">
+              <caret line="7" column="24" lean-forward="true" selection-end-line="20" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -47,13 +33,18 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/4613/s1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="9" selection-end-column="18" />
+            <state relative-caret-position="157">
+              <caret line="9" column="14" selection-end-line="32" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>my</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -63,16 +54,16 @@
       <list>
         <option value="$PROJECT_DIR$/1220/input.txt" />
         <option value="$PROJECT_DIR$/4613/input.txt" />
-        <option value="$PROJECT_DIR$/4613/s1.py" />
         <option value="$PROJECT_DIR$/1220/s1.py" />
+        <option value="$PROJECT_DIR$/4613/s1.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="790" />
-    <option name="y" value="120" />
-    <option name="width" value="785" />
-    <option name="height" value="835" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="3032" />
+    <option name="y" value="52" />
+    <option name="width" value="628" />
+    <option name="height" value="668" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -122,7 +113,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.s1">
+  <component name="RunManager" selected="Python.s1 (1)">
     <configuration name="s1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="REVIEW_STUDY" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -167,8 +158,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.s1" />
         <item itemvalue="Python.s1 (1)" />
+        <item itemvalue="Python.s1" />
       </list>
     </recent_temporary>
   </component>
@@ -186,16 +177,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="3032" y="52" width="628" height="668" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15069398" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.38644066" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.23829788" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31019524" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.56554306" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -228,22 +219,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/4613/input.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+        <state relative-caret-position="66">
+          <caret line="2" column="4" lean-forward="true" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python39/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="309" selection-start-line="309" selection-end-line="309" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/1220/s1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="3" selection-start-line="3" selection-end-line="20" selection-end-column="37" />
+        <state relative-caret-position="231">
+          <caret line="7" column="24" lean-forward="true" selection-end-line="20" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/4613/s1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="9" selection-end-column="18" />
+        <state relative-caret-position="157">
+          <caret line="9" column="14" selection-end-line="32" />
         </state>
       </provider>
     </entry>
