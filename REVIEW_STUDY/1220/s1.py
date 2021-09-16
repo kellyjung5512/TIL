@@ -3,7 +3,7 @@ sys.stdin = open('input.txt')
 
 for tc in range(1, 11):
     num = int(input())
-    my_list = [list(map(int, input().split())) for cnt in range(num)]
+    my_list = [list(map(int, input().split())) for _ in range(num)]
     cnt = 0
     for i in range(num):
         check_list = []

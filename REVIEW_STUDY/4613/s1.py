@@ -6,10 +6,7 @@ for tc in range(1, T+1):
     n, m = map(int, input().split())
 
     my_flag = [list(map(str, input())) for _ in range(n)]
-    new_flag = my_flag[:]
-    # print(n, m)
-    # print(new_flag)
-    # print(my_flag)
+
     min_num = n * m
     for i in range(0, n-2):
         for j in range(i+1, n-1):
