@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4ea60a27-7621-47b8-803c-8ba92395f7f4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/4613/s2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1220/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/1220/s1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4613/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/4613/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4613/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/4613/s1.py" afterDir="false" />
-    </list>
+    <list default="true" id="4ea60a27-7621-47b8-803c-8ba92395f7f4" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -269,10 +263,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4613/s1.py">
+    <entry file="file://$PROJECT_DIR$/4613/input.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret selection-end-line="1" selection-end-column="29" />
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -283,10 +277,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4613/input.txt">
+    <entry file="file://$PROJECT_DIR$/4613/s1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="1" selection-start-column="1" selection-end-column="1" />
+          <caret selection-end-line="1" selection-end-column="29" />
         </state>
       </provider>
     </entry>
