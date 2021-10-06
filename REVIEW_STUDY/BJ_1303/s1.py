@@ -6,7 +6,7 @@ sys.stdin = open('input.txt')
 dx = [0, 0, 1, -1]
 dy = [1, -1, 0, 0]
 
-def bfs(a,b):
+def bfs(a, b):
     global result
     visited[a][b] = 1
     Q = [[a, b]]
@@ -19,9 +19,9 @@ def bfs(a,b):
             ny = dy[i] + num[1]
 
             if 0 <= nx < N and 0 <= ny < M and war[nx][ny] == war[num[0]][num[1]] and visited[nx][ny] == 0:
-                Q.append([nx, ny])
-                visited[nx][ny] = 1
-                cnt += 1
+                    Q.append([nx, ny])
+                    visited[nx][ny] = 1
+                    cnt += 1
     return cnt
 
 
