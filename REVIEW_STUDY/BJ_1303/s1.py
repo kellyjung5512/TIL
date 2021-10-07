@@ -1,4 +1,4 @@
-# indexerror의 이유를 모르겠습니다 ㅜㅜ 답 나오는데... 힝구
+# indexerror : 간단한 실수 -> 가로의 길이 M, 세로의 길이 N이라고 해서 가로 세로가 아니라 행 열로 봐야함 바보야
 
 import sys
 sys.stdin = open('input.txt')
