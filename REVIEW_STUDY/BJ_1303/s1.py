@@ -18,7 +18,7 @@ def bfs(a, b):
             nx = dx[i] + num[0]
             ny = dy[i] + num[1]
 
-            if 0 <= nx < N and 0 <= ny < M and war[nx][ny] == war[num[0]][num[1]] and visited[nx][ny] == 0:
+            if 0 <= nx < M and 0 <= ny < N and war[nx][ny] == war[num[0]][num[1]] and visited[nx][ny] == 0:
                     Q.append([nx, ny])
                     visited[nx][ny] = 1
                     cnt += 1
@@ -30,8 +30,8 @@ war = [list(map(str, input())) for _ in range(M)]
 visited = [[0 for _ in range(N)] for _ in range(M)]
 W, B = 0, 0
 
-for i in range(N):
-    for j in range(M):
+for i in range(M):
+    for j in range(N):
         if visited[i][j] == 0:
             result = bfs(i, j)
             if war[i][j] == 'W':
