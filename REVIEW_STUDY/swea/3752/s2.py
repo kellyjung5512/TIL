@@ -1,19 +1,19 @@
+from itertools import combinations
 import sys
 sys.stdin = open('input.txt')
 
 T = int(input())
 for tc in range(1, T+1):
     N = int(input())
-    cnt = 0
     nums = list(map(int, input().split()))
-    result = set()
-    for i in range(1 << N):  # 부분집합의 개수
-        my_sum = []
-        for j in range(N):
-            if i & (1 << j):
-                my_sum.append(nums[j])
-        cnt = sum(my_sum)
-        result.add(cnt)
+    result = []
+    res = set()
+    for i in range(N+1):
+        c = combinations(nums, i)
+        # res.add(sum(c))
+        result.extend(c)
+    for j in range(len(result)):
+        res.add(sum(result[j]))
+    print(res)
 
-
-    print('#{} {}'.format(tc, len(result)))
+    print('#{} {}'.format(tc, len(res)))
