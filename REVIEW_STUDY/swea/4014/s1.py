@@ -13,6 +13,9 @@ def make_road(arr, x):
 
         # 내리막길일 때
 
+
+        # 직진이면?
+
 import sys
 sys.stdin = open('input.txt')
 
