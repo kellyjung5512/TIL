@@ -5,16 +5,43 @@
 # 알아야 할 기본 개념? :
 
 def make_road(arr, x):
-    cnt = 1
+    check_list = [0, 0]        # 오르막, 내리막 체크
     for i in range(1, len(arr)):
         # 오르막길일 때
-        if arr[i] :
-            pass
+        if arr[i] > arr[i-1]:
+            if check_list[1] == 0:
+                check_list[0] += 1
+                if i != 1:
+                    if arr[i-2] > arr[i-1]:
+                        if check_list[1] >= x:
+                            check_list[1] = 0
+                            continue
+                        else:
+                            return 0
+                    else:
+                        continue
+
 
         # 내리막길일 때
+        elif arr[i] < arr[i-1]:
+            if check_list[0] == 0:
+                check_list[1] += 1
+                if i != 1:
+                    if arr[i-2] < arr[i-1]:
+                        if check_list[0] >= x:
+                            check_list[0] = 0
+                            continue
+                        else:
+                            return 0
+                    else:
+                        continue
 
 
         # 직진이면?
+        elif arr[i] == arr[i-1]:
+            continue
+
+        return 1
 
 import sys
 sys.stdin = open('input.txt')
@@ -23,6 +50,11 @@ T = int(input())
 for tc in range(1, T+1):
     N, X = map(int, input().split())          # N: 지도 한 변의 크기, X: 경사로의 길이
     mountain = [list(map(int, input().split())) for _ in range(N)]
-
+    cnt = 0
     for i in range(N):
-        make_road(mountain[i], X)
+        cnt += make_road(mountain[i], X)
+    mountain = list(map(list, zip(*mountain)))
+    print(mountain)
+    for j in range(N):
+        cnt += make_road(mountain[i], X)
+    print(cnt)
