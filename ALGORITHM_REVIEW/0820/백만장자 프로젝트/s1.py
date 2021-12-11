@@ -11,15 +11,16 @@ for tc in range(1, T+1):
     ans = 0
     while x >= 0:
         if cost[x] > max_cost:
-            while profit:
-                temp = profit.pop()
-                ans += max_cost - temp
+            # while profit:
+            #     temp = profit.pop()
+            #     ans += max_cost - temp
             max_cost = cost[x]
             x -= 1
         else:
-            profit.append(cost[x])
+            # profit.append(cost[x])
+            ans += max_cost - cost[x]
             x -= 1
-    while profit:
-        temp = profit.pop()
-        ans += max_cost - temp
+    # while profit:
+    #     temp = profit.pop()
+    #     ans += max_cost - temp
     print('#{} {}'.format(tc, ans))
