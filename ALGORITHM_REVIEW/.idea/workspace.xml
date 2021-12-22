@@ -2,22 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45fb6028-94ee-4eb7-b9dc-bfc009e32125" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1001/1244_최대상금/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1001/1244_최대상금/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1006/5204_병합정렬/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1006/5204_병합정렬/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1007/1865_동철이의일분배/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1007/1865_동철이의일분배/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1007/5205_퀵정렬/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1007/5205_퀵정렬/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1007/5207_이진탐색/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1007/5207_이진탐색/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1007/5208_전기버스2/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1007/5208_전기버스2/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1007/5209_최소생산비용/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1007/5209_최소생산비용/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1007/5209_최소생산비용/s2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0924/1953_탈주범검거/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/0924/1953_탈주범검거/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1007/1865_동철이의일분배/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/1007/1865_동철이의일분배/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1007/1865_동철이의일분배/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/1007/1865_동철이의일분배/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1007/5209_최소생산비용/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/1007/5209_최소생산비용/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1007/5209_최소생산비용/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/1007/5209_최소생산비용/s1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,17 +16,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/1007/5208_전기버스2/s1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -57,11 +37,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/0824/4880_토너먼트카드게임/input.txt" />
-        <option value="$PROJECT_DIR$/0824/4880_토너먼트카드게임/s1.py" />
-        <option value="$PROJECT_DIR$/0824/4881_배열최소합/input.txt" />
-        <option value="$PROJECT_DIR$/0824/4881_배열최소합/s1.py" />
-        <option value="$PROJECT_DIR$/0825/1225_암호생성기/input.txt" />
         <option value="$PROJECT_DIR$/0825/1225_암호생성기/s1.py" />
         <option value="$PROJECT_DIR$/0826/1226_미로1/input.txt" />
         <option value="$PROJECT_DIR$/0826/1226_미로1/s1.py" />
@@ -108,14 +83,19 @@
         <option value="$PROJECT_DIR$/1007/5208_전기버스2/input.txt" />
         <option value="$PROJECT_DIR$/1005/5203_베이비진게임/s1.py" />
         <option value="$PROJECT_DIR$/1007/5208_전기버스2/s1.py" />
+        <option value="$PROJECT_DIR$/1007/5209_최소생산비용/input.txt" />
+        <option value="$PROJECT_DIR$/1007/5209_최소생산비용/s1.py" />
+        <option value="$PROJECT_DIR$/1007/5209_최소생산비용/s2.py" />
+        <option value="$PROJECT_DIR$/1007/1865_동철이의일분배/input.txt" />
+        <option value="$PROJECT_DIR$/1007/1865_동철이의일분배/s1.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1928" />
-    <option name="y" value="-242" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="-12" />
+    <option name="y" value="-12" />
+    <option name="width" value="1944" />
+    <option name="height" value="1044" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -132,11 +112,6 @@
             <path>
               <item name="ALGORITHM_REVIEW" type="b2602c69:ProjectViewProjectNode" />
               <item name="ALGORITHM_REVIEW" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ALGORITHM_REVIEW" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ALGORITHM_REVIEW" type="462c0819:PsiDirectoryNode" />
-              <item name="1007" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -172,7 +147,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.s1 (2)">
+  <component name="RunManager" selected="Python.s1 (3)">
     <configuration name="s1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ALGORITHM_REVIEW" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -223,11 +198,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1005/5202_화물도크" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1007/1865_동철이의일분배" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1005/5202_화물도크/s1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1007/1865_동철이의일분배/s1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -236,7 +211,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="s1 (4)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="s1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ALGORITHM_REVIEW" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -244,11 +219,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1005/5201_컨테이너운반" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1007/5209_최소생산비용" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1005/5201_컨테이너운반/s1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1007/5209_최소생산비용/s1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -257,7 +232,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="s1 (5)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="s2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ALGORITHM_REVIEW" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -265,11 +240,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1001/1244_최대상금" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1007/5209_최소생산비용" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1001/1244_최대상금/s1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1007/5209_최소생산비용/s2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -280,11 +255,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.s1 (3)" />
+        <item itemvalue="Python.s2" />
+        <item itemvalue="Python.s1" />
         <item itemvalue="Python.s1 (2)" />
         <item itemvalue="Python.s1 (1)" />
-        <item itemvalue="Python.s1 (5)" />
-        <item itemvalue="Python.s1 (4)" />
-        <item itemvalue="Python.s1 (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -311,15 +286,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1928" y="-242" width="1936" height="1056" extended-state="6" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17755532" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1772655" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2483731" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49947312" weight="0.21366595" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.24733096" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49947312" weight="0.37366548" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
@@ -549,6 +524,16 @@
           <line>22</line>
           <option name="timeStamp" value="67" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1007/5209_최소생산비용/s2.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1007/1865_동철이의일분배/s1.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -560,13 +545,28 @@
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
-        <watch expression="len(station)" language="Python" />
-        <watch expression="station" language="Python" />
+        <watch expression="ans" language="Python" />
+        <watch expression="percent[x][i]" language="Python" />
       </configuration>
     </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
+      <expression>
+        <expression-string>percent[x][i]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>ans</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>len(number)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>station</expression-string>
         <language-id>Python</language-id>
@@ -588,11 +588,6 @@
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>ans</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
         <expression-string>max_height</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
@@ -607,36 +602,9 @@
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
-      <expression>
-        <expression-string>maps[x][y]</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>visited</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/0820/어디에 단어가 들어갈 수 있을까/s1.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0820/백만장자 프로젝트/s1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="17" column="18" lean-forward="true" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0820/자기 방으로 돌아가기/s1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/0826/5099_피자굽기/s1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="858">
@@ -884,12 +852,6 @@
     <entry file="file://$PROJECT_DIR$/1007/5207_이진탐색/s1.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/1007/5209_최소생산비용/s1.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1007/1865_동철이의일분배/s1.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/1007/5208_전기버스2/input.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="99">
@@ -914,7 +876,42 @@
     <entry file="file://$PROJECT_DIR$/1007/5208_전기버스2/s1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
-          <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1007/1865_동철이의일분배/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1007/1865_동철이의일분배/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1007/5209_최소생산비용/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-323">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1007/5209_최소생산비용/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1007/5209_최소생산비용/s2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="3" selection-start-line="3" selection-end-line="31" selection-end-column="38" />
         </state>
       </provider>
     </entry>
