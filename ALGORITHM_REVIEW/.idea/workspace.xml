@@ -5,16 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45fb6028-94ee-4eb7-b9dc-bfc009e32125" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1012/2105_디저트카페/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1012/2105_디저트카페/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1012/4012_요리사/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1012/4012_요리사/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1012/5656_벽돌깨기/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1012/5656_벽돌깨기/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1013/2814_최장경로/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1013/2814_최장경로/s1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1008/4366_정식이의은행업무/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/1008/4366_정식이의은행업무/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1012/2105_디저트카페/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/1012/2105_디저트카페/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1012/2105_디저트카페/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/1012/2105_디저트카페/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1012/4012_요리사/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/1012/4012_요리사/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1012/4012_요리사/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/1012/4012_요리사/s1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,62 +20,33 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1008/4366_정식이의은행업무/s1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
-              <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1008/2819_격자판의숫자이어붙이기/s1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1008/1486_장훈이의높은선반/s1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/1012/4012_요리사/s1.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+            </state>
+          </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1012/4012_요리사/input.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/1012/5656_벽돌깨기/s1.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/1012/2105_디저트카페/s1.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/1013/2814_최장경로/s1.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-327">
+              <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1008/4366_정식이의은행업무/input.txt">
+        <entry file="file://$PROJECT_DIR$/1012/4012_요리사/input.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="3300">
+              <caret line="100" column="81" selection-start-line="100" selection-start-column="81" selection-end-line="100" selection-end-column="81" />
             </state>
           </provider>
         </entry>
@@ -106,10 +72,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/0826/5105_미로의거리/s1.py" />
-        <option value="$PROJECT_DIR$/0810/전기버스/s2.py" />
-        <option value="$PROJECT_DIR$/0820/백만장자 프로젝트/s1.py" />
-        <option value="$PROJECT_DIR$/0827/1231_중위순회/input.txt" />
         <option value="$PROJECT_DIR$/0827/1231_중위순회/s1.py" />
         <option value="$PROJECT_DIR$/0923/5174_subtree/input.txt" />
         <option value="$PROJECT_DIR$/0923/5174_subtree/s1.py" />
@@ -157,14 +119,18 @@
         <option value="$PROJECT_DIR$/1008/2819_격자판의숫자이어붙이기/s1.py" />
         <option value="$PROJECT_DIR$/1008/4366_정식이의은행업무/input.txt" />
         <option value="$PROJECT_DIR$/1008/4366_정식이의은행업무/s1.py" />
+        <option value="$PROJECT_DIR$/1012/2105_디저트카페/input.txt" />
+        <option value="$PROJECT_DIR$/1012/2105_디저트카페/s1.py" />
+        <option value="$PROJECT_DIR$/1012/4012_요리사/input.txt" />
+        <option value="$PROJECT_DIR$/1012/4012_요리사/s1.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-11" />
-    <option name="y" value="-11" />
-    <option name="width" value="1943" />
-    <option name="height" value="1043" />
+    <option name="x" value="-12" />
+    <option name="y" value="-12" />
+    <option name="width" value="1944" />
+    <option name="height" value="1044" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -174,7 +140,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -190,12 +155,31 @@
             <path>
               <item name="ALGORITHM_REVIEW" type="b2602c69:ProjectViewProjectNode" />
               <item name="ALGORITHM_REVIEW" type="462c0819:PsiDirectoryNode" />
+              <item name="1012" type="462c0819:PsiDirectoryNode" />
+              <item name="2105_디저트카페" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ALGORITHM_REVIEW" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ALGORITHM_REVIEW" type="462c0819:PsiDirectoryNode" />
+              <item name="1012" type="462c0819:PsiDirectoryNode" />
+              <item name="4012_요리사" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ALGORITHM_REVIEW" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ALGORITHM_REVIEW" type="462c0819:PsiDirectoryNode" />
+              <item name="1012" type="462c0819:PsiDirectoryNode" />
+              <item name="5656_벽돌깨기" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ALGORITHM_REVIEW" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ALGORITHM_REVIEW" type="462c0819:PsiDirectoryNode" />
               <item name="1013" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -226,7 +210,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.s1">
+  <component name="RunManager" selected="Python.s1 (3)">
     <configuration name="s1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ALGORITHM_REVIEW" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -277,11 +261,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1007/1865_동철이의일분배" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1012/4012_요리사" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1007/1865_동철이의일분배/s1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1012/4012_요리사/s1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -290,7 +274,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="s1 (4)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="s1 (5)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ALGORITHM_REVIEW" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -298,11 +282,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1008/1486_장훈이의높은선반" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1012/2105_디저트카페" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1008/1486_장훈이의높은선반/s1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1012/2105_디저트카페/s1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -334,11 +318,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.s1 (3)" />
+        <item itemvalue="Python.s1 (5)" />
         <item itemvalue="Python.s1" />
         <item itemvalue="Python.s1 (2)" />
         <item itemvalue="Python.s1 (1)" />
-        <item itemvalue="Python.s1 (4)" />
-        <item itemvalue="Python.s1 (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -368,13 +352,13 @@
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1772655" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16057234" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33629894" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49947312" weight="0.25266904" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.20498915" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.49947312" visible="true" weight="0.2516269" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
@@ -619,6 +603,16 @@
           <line>6</line>
           <option name="timeStamp" value="73" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1012/2105_디저트카페/s1.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1012/4012_요리사/s1.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -690,13 +684,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/0924/1949_등산로조성/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="429">
-          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/0924/1953_탈주범검거/input.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3168">
@@ -954,6 +941,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/1008/1486_장훈이의높은선반/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/1008/4366_정식이의은행업무/input.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
@@ -961,26 +955,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1008/1486_장훈이의높은선반/s1.py">
+    <entry file="file://$PROJECT_DIR$/1013/2814_최장경로/s1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1012/2105_디저트카페/input.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+        <state relative-caret-position="99">
+          <caret line="3" column="1" selection-start-line="3" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1012/4012_요리사/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3300">
+          <caret line="100" column="81" selection-start-line="100" selection-start-column="81" selection-end-line="100" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1012/2105_디저트카페/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-327">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/1012/4012_요리사/s1.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1012/4012_요리사/input.txt">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/1012/5656_벽돌깨기/s1.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1012/2105_디저트카페/s1.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1013/2814_최장경로/s1.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
