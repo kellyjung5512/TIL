@@ -1,6 +1,7 @@
 import sys
 sys.stdin = open('input.txt', 'r')
 
+
 def dfs(num):
     stack = []
     stack.append(num)
@@ -11,6 +12,8 @@ def dfs(num):
             if visited[j] == 0:
                 stack.append(j)
                 visited[j] = 1
+
+
 
 T = int(input())
 for tc in range(1, T+1):
