@@ -15,8 +15,5 @@ def solution(numbers):
                 answer = temp
     else:
         return answer
-    # result = list(map(int, result))
-    # result.sort(reverse=True)
-    # # answer = str(result[0])
-    # answer = result[0]
+
     return answer
