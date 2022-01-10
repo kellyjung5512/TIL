@@ -1,4 +1,5 @@
 # 정답
+# 더 좋은 방법은 없을까?
 numbers = [0, 0, 0]
 
 def solution(numbers):
