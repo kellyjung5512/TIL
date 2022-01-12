@@ -201,7 +201,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-15" />
     <option name="y" value="-15" />
     <option name="width" value="1945" />
@@ -274,7 +274,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.s2">
+  <component name="RunManager" selected="Python.s1">
     <configuration name="s1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ALGORITHM_REVIEW" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -317,7 +317,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="s1 (4)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="s1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ALGORITHM_REVIEW" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -325,11 +325,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1013/2814_최장경로" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programmers/기능개발" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1013/2814_최장경로/s1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/기능개발/s1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -383,17 +383,17 @@
     <list>
       <item itemvalue="Python.s1 (1)" />
       <item itemvalue="Python.s1 (2)" />
-      <item itemvalue="Python.s1 (4)" />
       <item itemvalue="Python.s2" />
       <item itemvalue="Python.s3" />
+      <item itemvalue="Python.s1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.s1" />
         <item itemvalue="Python.s2" />
         <item itemvalue="Python.s3" />
         <item itemvalue="Python.s1 (2)" />
         <item itemvalue="Python.s1 (1)" />
-        <item itemvalue="Python.s1 (4)" />
       </list>
     </recent_temporary>
   </component>

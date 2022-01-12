@@ -7,19 +7,21 @@ def solution(progresses, speeds):
             answer.append(temp1//speeds[i] + 1)
         else:
             answer.append(temp1//speeds[i])
+    print(answer)
     result = []
     cnt = 0
-    temp = 0
+    temp = answer[0]
     for j in range(len(answer)):
-        if cnt == 0:
-            temp = answer[j]
-            cnt += 1
+        if temp < answer[j]:
+            result.append(cnt)
+            cnt = 1
         else:
-            if temp < answer[j]:
-                result.append(cnt)
-                cnt = 1
-            else:
-                cnt += 1
+            cnt += 1
     result.append(cnt)
-    # print(result)
+    print(result)
     return result
+
+a = [40, 93, 30, 55, 60, 65]
+b = [60, 1, 30, 5, 10, 7]
+
+print(solution(a, b))
