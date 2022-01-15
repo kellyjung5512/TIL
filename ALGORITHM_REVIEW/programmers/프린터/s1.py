@@ -1,3 +1,5 @@
+# 계속 생각하기
+
 def solution(priorities, location):
     answer = 0
     result = []
