@@ -7,18 +7,20 @@ const EventPractice = () => {
   });
 
   const { username, message } = form;
-  const onChange = e => {
+  const onChange = (e) => {
     const nextForm = {
       ...form,
-      [e.target.name]
+      [e.target.name]: e.target.value,
     };
     setForm(nextForm);
   };
 
   const onClick = () => {
     alert(username + ': ' + message);
-    setUsername('');
-    SetMessage('');
+    setForm({
+      username: '',
+      message: '',
+    });
   };
 
   const onKeyPress = (e) => {
@@ -26,7 +28,7 @@ const EventPractice = () => {
       onClick();
     }
   };
-}
+
   return (
     <div>
       <h1>이벤트 연습</h1>
@@ -36,7 +38,7 @@ const EventPractice = () => {
         name="username"
         value={username}
         placeholder="사용자명"
-        onChange={onChangeUsername}
+        onChange={onChange}
       />
 
       <input
@@ -44,7 +46,7 @@ const EventPractice = () => {
         name="message"
         value={message}
         placeholder="사용자명"
-        onChange={onChangeMessage}
+        onChange={onChange}
         onKeyPress={onKeyPress}
       />
 

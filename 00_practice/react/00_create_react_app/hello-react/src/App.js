@@ -1,7 +1,14 @@
-import EventPractice from './EventPractice';
+import IterationSample from './IterationSample';
+import { Component } from 'react';
 
-const App = () => {
-  return <EventPractice />;
-};
+class App extends Component {
+  render() {
+    return (
+      <div>
+        <IterationSample />
+      </div>
+    );
+  }
+}
 
 export default App;
