@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d6c88a67-28b4-4374-8f07-05ff530d8aee" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../else/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../else/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../else/1_NH/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../else/1_NH/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../else/2_NH/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../else/2_NH/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../else/3_NH/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../else/3_NH/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/소수찾기/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/소수찾기/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02_cs_study/01_운영체제의 개요.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02_cs_study/02_컴퓨터의 구조와 성능 향상.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02_cs_study/03_프로세스와 스레드.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02_cs_study/04_CPU 스케줄링.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02_cs_study/05_프로세스 동기화.assets/image-20210906184852126.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02_cs_study/05_프로세스 동기화.assets/image-20210906184946322.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02_cs_study/05_프로세스 동기화.assets/image-20210906185346452.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02_cs_study/05_프로세스 동기화.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02_cs_study/06_교착 상태.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02_cs_study/07_물리 메모리 관리.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02_cs_study/08_가상 메모리의 기초.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02_cs_study/09_가상 메모리 관리.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02_cs_study/10_입출력 시스템과 저장장치.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02_cs_study/11_파일 시스템.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02_cs_study/12_네트워크와 분산 시스템.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02_cs_study/99_TOTAL.md" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/소수찾기/s1.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/소수찾기/input.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1928" />
+    <option name="y" value="-242" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="programmers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="programmers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="programmers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="programmers" type="462c0819:PsiDirectoryNode" />
+              <item name="소수찾기" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d6c88a67-28b4-4374-8f07-05ff530d8aee" name="Default Changelist" comment="" />
+      <created>1642836873148</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642836873148</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1928" y="-242" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/소수찾기/s1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/소수찾기/input.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>
