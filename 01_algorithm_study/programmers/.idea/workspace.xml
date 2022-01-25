@@ -1,34 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d6c88a67-28b4-4374-8f07-05ff530d8aee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../else/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../else/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../else/1_NH/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../else/1_NH/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../else/2_NH/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../else/2_NH/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../else/3_NH/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../else/3_NH/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/소수찾기/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/소수찾기/s1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../02_cs_study/01_운영체제의 개요.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../02_cs_study/02_컴퓨터의 구조와 성능 향상.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../02_cs_study/03_프로세스와 스레드.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../02_cs_study/04_CPU 스케줄링.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../02_cs_study/05_프로세스 동기화.assets/image-20210906184852126.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../02_cs_study/05_프로세스 동기화.assets/image-20210906184946322.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../02_cs_study/05_프로세스 동기화.assets/image-20210906185346452.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../02_cs_study/05_프로세스 동기화.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../02_cs_study/06_교착 상태.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../02_cs_study/07_물리 메모리 관리.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../02_cs_study/08_가상 메모리의 기초.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../02_cs_study/09_가상 메모리 관리.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../02_cs_study/10_입출력 시스템과 저장장치.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../02_cs_study/11_파일 시스템.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../02_cs_study/12_네트워크와 분산 시스템.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../02_cs_study/99_TOTAL.md" beforeDir="false" />
-    </list>
+    <list default="true" id="d6c88a67-28b4-4374-8f07-05ff530d8aee" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +9,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/소수찾기/s1.py">
           <provider selected="true" editor-type-id="text-editor" />
@@ -114,16 +87,11 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1928" y="-242" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-1928" y="-126" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -131,6 +99,10 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
