@@ -7,7 +7,7 @@ def dfs(num, depth):
 
     if result < depth:
         result = depth
-
+              
     for j in new_list[num]:
         if not visited[j]:
             visited[j] = 1
