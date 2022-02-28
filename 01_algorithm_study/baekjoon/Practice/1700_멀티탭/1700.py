@@ -8,25 +8,26 @@ multitap = []  # multitap == 멀티탭
 cnt = 0
 
 for i in range(len(equip)):
-    if len(multitap) < hole:
+    if equip[i] in multitap:
+        continue
+
+    elif len(multitap) < hole:
         multitap.append(equip[i])
         continue
 
-    elif equip[i] in multitap:
-        continue
+    else:
+        target = []
+        target_idx = []
 
-    equip_idx = 101
-    out_list = []
-    for j in range(hole):
-        if multitap[j] in equip[i:]:
-            equip_idx = equip[i:].index(multitap[j])
-
-        out_list.append(equip_idx)
-
-    plug_out = out_list.index(max(out_list))
-    multitap.pop(plug_out)
-
-    multitap.append(equip[i])
-    cnt += 1
+        for m in multitap:
+            if m in equip[i:]:
+                target.append(m)
+                target_idx.append(equip[i:].index(m))
+            else:
+                target.append(m)
+                target_idx.append(101)
+        max_idx = target_idx.index(max(target_idx))
+        multitap[max_idx] = equip[i]
+        cnt += 1
 
 print(cnt)
