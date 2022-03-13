@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed8f9d8e-f76c-4dc3-baaa-577c28f03bf2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Practice/3085_사탕게임/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/3085_사탕게임/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/2293_동전1/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/2293_동전1/s1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/1789_수들의합/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/1789_수들의합/s1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,40 +18,63 @@
         <counts>
           <entry key="project.closed" value="4" />
           <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="3" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="2" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="15" />
-          <entry key="txt" value="11" />
+          <entry key="py" value="16" />
+          <entry key="txt" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="11" />
-          <entry key="Python" value="15" />
+          <entry key="PLAIN_TEXT" value="12" />
+          <entry key="Python" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="3870" />
+          <entry key="py" value="4130" />
           <entry key="txt" value="46" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="46" />
-          <entry key="Python" value="3870" />
+          <entry key="Python" value="4130" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Practice/2293_동전1/input.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Practice/2293_동전1/s1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
@@ -72,6 +94,8 @@
         <option value="$PROJECT_DIR$/Practice/1789_수들의합/s1.py" />
         <option value="$PROJECT_DIR$/Practice/3085_사탕게임/input.txt" />
         <option value="$PROJECT_DIR$/Practice/3085_사탕게임/s1.py" />
+        <option value="$PROJECT_DIR$/Practice/2293_동전1/input.txt" />
+        <option value="$PROJECT_DIR$/Practice/2293_동전1/s1.py" />
       </list>
     </option>
   </component>
@@ -89,7 +113,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -102,34 +125,11 @@
               <item name="baekjoon" type="462c0819:PsiDirectoryNode" />
               <item name="Practice" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="baekjoon" type="b2602c69:ProjectViewProjectNode" />
-              <item name="baekjoon" type="462c0819:PsiDirectoryNode" />
-              <item name="Practice" type="462c0819:PsiDirectoryNode" />
-              <item name="1700_멀티탭" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="baekjoon" type="b2602c69:ProjectViewProjectNode" />
-              <item name="baekjoon" type="462c0819:PsiDirectoryNode" />
-              <item name="Practice" type="462c0819:PsiDirectoryNode" />
-              <item name="1789_수들의합" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="baekjoon" type="b2602c69:ProjectViewProjectNode" />
-              <item name="baekjoon" type="462c0819:PsiDirectoryNode" />
-              <item name="Practice" type="462c0819:PsiDirectoryNode" />
-              <item name="3085_사탕게임" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="baekjoon" type="b2602c69:ProjectViewProjectNode" />
-              <item name="baekjoon" type="462c0819:PsiDirectoryNode" />
-              <item name="Practice" type="462c0819:PsiDirectoryNode" />
-              <item name="14719_빗물" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -152,28 +152,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.s1 (3)">
-    <configuration name="1700" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="baekjoon" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practice/1700_멀티탭" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practice/1700_멀티탭/1700.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.s1">
     <configuration name="s1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="baekjoon" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -258,20 +237,41 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="s1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="baekjoon" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practice/2293_동전1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practice/2293_동전1/s1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.1700" />
       <item itemvalue="Python.s1 (1)" />
       <item itemvalue="Python.s1 (2)" />
       <item itemvalue="Python.s1 (3)" />
       <item itemvalue="Python.s1 (4)" />
+      <item itemvalue="Python.s1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.s1" />
         <item itemvalue="Python.s1 (3)" />
         <item itemvalue="Python.s1 (4)" />
         <item itemvalue="Python.s1 (2)" />
         <item itemvalue="Python.s1 (1)" />
-        <item itemvalue="Python.1700" />
       </list>
     </recent_temporary>
   </component>
@@ -296,7 +296,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.19318181" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.19318181" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.265625" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -456,6 +456,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
           <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice/2293_동전1/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice/2293_동전1/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
