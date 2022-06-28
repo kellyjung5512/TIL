@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36e086f5-9840-4e06-bc37-79637b92f492" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/10870_피보나치수5/s2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2798_블랙잭/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2798_블랙잭/check.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2798_블랙잭/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2798_블랙잭/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11053_가장긴증가하는부분수열/s1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10870_피보나치수5/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/10870_피보나치수5/s1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,7 +17,7 @@
         <entry file="file://$PROJECT_DIR$/1316_그룹단어체커/s1.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="495">
-              <caret line="15" column="10" lean-forward="true" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+              <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -32,9 +27,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="280">
               <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
-              <folding>
-                <element signature="e#1#35#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -85,12 +77,14 @@
         <option value="$PROJECT_DIR$/15649_N과M/input.txt" />
         <option value="$PROJECT_DIR$/1316_그룹단어체커/s1.py" />
         <option value="$PROJECT_DIR$/15649_N과M/s1.py" />
+        <option value="$PROJECT_DIR$/11053_가장긴증가하는부분수열/input.txt" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="561" />
-    <option name="width" value="1370" />
+    <option name="x" value="-11" />
+    <option name="y" value="-11" />
+    <option name="width" value="983" />
     <option name="height" value="1043" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -108,6 +102,11 @@
             <path>
               <item name="Practice" type="b2602c69:ProjectViewProjectNode" />
               <item name="Practice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practice" type="462c0819:PsiDirectoryNode" />
+              <item name="11053_가장긴증가하는부분수열" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -618,17 +617,24 @@
     <entry file="file://$PROJECT_DIR$/1316_그룹단어체커/s1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
-          <caret line="15" column="10" lean-forward="true" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11053_가장긴증가하는부분수열/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11053_가장긴증가하는부분수열/s1.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/15649_N과M/s1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
           <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
-          <folding>
-            <element signature="e#1#35#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
