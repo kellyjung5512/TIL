@@ -1,15 +1,13 @@
-
 import sys
 sys.stdin = open('input.txt')
 
 N, M = map(int, input().split())
-arr = list(map(int, input().split()))
+card_list = list(map(int, input().split()))
 res = 0
-
 for i in range(N-2):
     for j in range(i+1, N-1):
         for k in range(j+1, N):
-            num = arr[i] + arr[j] + arr[k]
+            num = card_list[i] + card_list[j] + card_list[k]
             if num > M:
                 continue
             else:
@@ -17,6 +15,4 @@ for i in range(N-2):
                     continue
                 else:
                     res = num
-
 print(res)
-
