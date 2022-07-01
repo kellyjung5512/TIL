@@ -1,6 +1,4 @@
-5
-ab
-aa
-aca
-ba
-bb
+3
+happy
+new
+year
