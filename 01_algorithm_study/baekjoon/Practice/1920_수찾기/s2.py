@@ -1,4 +1,5 @@
 # 이분탐색으로 해결 -> google에 검색했음 ㅠ..ㅠ
+# 다시 한 번 해보기
 
 import sys
 sys.stdin = open('input.txt')
