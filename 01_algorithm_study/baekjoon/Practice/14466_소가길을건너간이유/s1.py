@@ -15,6 +15,7 @@ for _ in range(R):
     r1, c1, r2, c2 = map(int, input().split())
     road[r1][c1].append([r2, c2])
     road[r2][c2].append([r1, c1])
+
 for _ in range(K):
     y, x = map(int, input().split())
     cow_list.append([y, x])
@@ -39,7 +40,9 @@ def find_cow(y, x):
                     if cow_map[ny][nx]:
                         tmp += 1
     cnt += K - tmp
+
 for y, x in cow_list:
     if cow_map[y][x]:
         find_cow(y, x)
+
 print(cnt)
