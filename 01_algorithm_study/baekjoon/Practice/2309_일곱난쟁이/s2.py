@@ -9,6 +9,6 @@ for i in combinations(num_list, 7):
         res = sorted(i)
         print(res)
         break
-        for j in sorted(i):
-            print(j)
-        break
+        # for j in sorted(i):
+        #     print(j)
+        # break
