@@ -10,5 +10,5 @@ for i in combinations(num_list, 7):
         print(res)
         break
         # for j in sorted(i):
-        #     print(j)
-        # break
+        #         #     print(j)
+        #         # break
