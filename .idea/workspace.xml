@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91f7a440-04c7-4a6f-bdc3-26d8ce45c26a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/01_algorithm_study/baekjoon/Practice/programmers/새로/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_algorithm_study/baekjoon/Practice/programmers/프린터/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_algorithm_study/baekjoon/Practice/programmers/프린터/s2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_algorithm_study/baekjoon/Practice/programmers/프린터/s3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_algorithm_study/baekjoon/Practice/programmers/프린터/s4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/01_algorithm_study/baekjoon/Practice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/01_algorithm_study/baekjoon/Practice/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,7 +20,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/01_algorithm_study/0809/연습문제_3/s2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-346">
+            <state>
               <caret column="14" lean-forward="true" selection-start-column="14" selection-end-column="14" />
             </state>
           </provider>
@@ -24,7 +29,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/01_algorithm_study/0809/연습문제_3/s1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
+            <state relative-caret-position="264">
               <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
             </state>
           </provider>
@@ -78,9 +83,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="949" />
-    <option name="width" value="980" />
-    <option name="height" value="1031" />
+    <option name="x" value="948" />
+    <option name="width" value="981" />
+    <option name="height" value="1032" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -90,7 +95,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -107,14 +111,22 @@
               <item name="TIL" type="b2602c69:ProjectViewProjectNode" />
               <item name="TIL" type="462c0819:PsiDirectoryNode" />
               <item name="01_algorithm_study" type="462c0819:PsiDirectoryNode" />
-              <item name="0809" type="462c0819:PsiDirectoryNode" />
+              <item name="baekjoon" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="TIL" type="b2602c69:ProjectViewProjectNode" />
               <item name="TIL" type="462c0819:PsiDirectoryNode" />
               <item name="01_algorithm_study" type="462c0819:PsiDirectoryNode" />
-              <item name="0809" type="462c0819:PsiDirectoryNode" />
-              <item name="연습문제_3" type="462c0819:PsiDirectoryNode" />
+              <item name="baekjoon" type="462c0819:PsiDirectoryNode" />
+              <item name="Practice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TIL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TIL" type="462c0819:PsiDirectoryNode" />
+              <item name="01_algorithm_study" type="462c0819:PsiDirectoryNode" />
+              <item name="baekjoon" type="462c0819:PsiDirectoryNode" />
+              <item name="Practice" type="462c0819:PsiDirectoryNode" />
+              <item name="programmers" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="TIL" type="b2602c69:ProjectViewProjectNode" />
@@ -125,11 +137,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="BuildoutCfg" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/01_algorithm_study/baekjoon/Practice" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunDashboard">
@@ -491,24 +504,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01_algorithm_study/0809/연습문제_3/input.txt">
+    <entry file="file://$PROJECT_DIR$/01_algorithm_study/0809/연습문제_3/s2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="1" selection-start-column="1" selection-end-column="1" />
+          <caret column="14" lean-forward="true" selection-start-column="14" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/01_algorithm_study/0809/연습문제_3/s1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
+        <state relative-caret-position="264">
           <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01_algorithm_study/0809/연습문제_3/s2.py">
+    <entry file="file://$PROJECT_DIR$/01_algorithm_study/0809/연습문제_3/input.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-346">
-          <caret column="14" lean-forward="true" selection-start-column="14" selection-end-column="14" />
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
         </state>
       </provider>
     </entry>
