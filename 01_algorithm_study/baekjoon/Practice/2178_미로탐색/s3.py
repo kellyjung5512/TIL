@@ -13,6 +13,7 @@ def bfs(a, b):
     Q = [(a, b)]
     if a == N - 1 and b == M - 1:
         return
+
     while Q:
         x, y = Q.pop(0)
 
