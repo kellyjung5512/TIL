@@ -1,0 +1,20 @@
+import sys
+sys.stdin = open("input.txt")
+
+triangle = []
+for n in range(1, 46):
+    triangle.append(n*(n+1)//2)
+
+eureka = [0] * 1001
+
+for i in triangle:
+    for j in triangle:
+        for k in triangle:
+            if i + j + k <= 1000:
+                eureka[i + j + k] = 1
+
+T = int(input())
+for _ in range(T):
+    K = int(input())
+    print(eureka[K])
+
