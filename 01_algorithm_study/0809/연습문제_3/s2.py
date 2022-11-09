@@ -1,4 +1,3 @@
-# 틀렸음 다시 해봐야 함
 import sys
 sys.stdin = open('input.txt')
 
@@ -7,15 +6,14 @@ for _ in range(N):
     M = int(input())
     box_list = list(map(int, input().split()))
     max_box = 0
-    cnt = 1
     res = 0
-    for box in box_list:
-        if box >= max_box:
-            max_box = box
-            if res < cnt:
-                res = cnt
-            cnt = 1
-        else:
-            cnt += 1
+    for i in range(len(box_list) - 1):
+        cnt = 0
+        parts = box_list[i:]
+        for part in parts:
+            if part < box_list[i]:
+                cnt += 1
+        if res < cnt:
+            res = cnt
 
     print(res)
