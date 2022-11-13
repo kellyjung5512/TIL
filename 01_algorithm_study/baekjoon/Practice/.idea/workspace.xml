@@ -2,20 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36e086f5-9840-4e06-bc37-79637b92f492" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/15486_퇴사2/s4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15486_퇴사2/s5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers/뉴스클러스터링/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers/추석트래픽/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers/추석트래픽/s1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/ALGORITHM_REVIEW.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/ALGORITHM_REVIEW.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../0809/연습문제_1/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../0809/연습문제_1/s1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../0809/연습문제_3/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../0809/연습문제_3/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../0809/연습문제_3/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../0809/연습문제_3/s1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../0809/연습문제_3/s2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../0809/연습문제_3/s2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../0810/버블정렬/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../0810/버블정렬/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0810/숫자카드/s2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0810/전기버스/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../0810/전기버스/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0810/전기버스/s2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../0810/전기버스/s2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/15486_퇴사2/s2.py" beforeDir="false" afterPath="$PROJECT_DIR$/15486_퇴사2/s2.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -159,11 +149,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1464" />
-    <option name="y" value="3" />
-    <option name="width" value="960" />
-    <option name="height" value="510" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1937" />
+    <option name="height" value="1097" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -342,15 +332,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1928" y="-242" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16332982" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24642289" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49920508" visible="true" weight="0.3557484" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49920508" weight="0.5836299" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.32740214" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
